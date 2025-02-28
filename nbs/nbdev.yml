@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "runs"
+  site-url: "https://gzquse.github.io/runs"
+  description: "hello world from nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/gzquse/runs"
